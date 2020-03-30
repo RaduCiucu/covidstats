@@ -78,7 +78,7 @@ function displayStatistics(stats) {
             </div>
         </div>
         <div class="row">
-            <div class="col-sm-12 mt-4">Data updated on ${niceDate}</div>
+            <div class="col-sm-12 mt-4">Data updated on: ${niceDate}</div>
         </div>
     `;
   countryStatsDiv.innerHTML = countryStats;
